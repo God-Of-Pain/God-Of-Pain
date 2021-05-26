@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @God-Of-Pain
+- 👀 I’m interested in Programming and IT
+- 🌱 I’m currently learning SQL , Asp.net and C#
